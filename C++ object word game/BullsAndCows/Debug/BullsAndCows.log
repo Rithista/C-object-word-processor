@@ -1,0 +1,5 @@
+﻿  FBullCowGame.cpp
+c:\users\harry\source\repos\bullsandcows\bullsandcows\fbullcowgame.cpp(160): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\harry\source\repos\bullsandcows\bullsandcows\fbullcowgame.cpp(167): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\harry\source\repos\bullsandcows\bullsandcows\fbullcowgame.cpp(174): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BullsAndCows.vcxproj -> C:\Users\Harry\source\repos\BullsAndCows\Debug\BullsAndCows.exe
